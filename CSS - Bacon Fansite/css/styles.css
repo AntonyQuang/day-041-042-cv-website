@@ -1,0 +1,33 @@
+body {background-color: lavender;}
+hr {border-style: dotted none none;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+    border-color: #BB9981;
+    }
+
+img:hover {
+    background-color: gold
+    }
+
+h1 {
+    color: red;
+    font-size: 200px;
+    }
+h3 {color: #66BFBF;}
+/* img {background-color: blue;} */
+
+.bacon {
+    background: green
+    }
+.eggplant {
+    background: red
+    }
+
+.circular {
+    border-radius: 100%
+    }
+
+#heading {
+    color: green;
+}
